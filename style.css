@@ -1,0 +1,18 @@
+table {
+    border: 1px solid #795548;
+    width: 80%;
+    margin: auto;
+}
+tr:hover {
+    color: white;
+    background-color: sienna;
+}
+h4 {
+    text-align: center;
+    color: white;
+    font-size: 200%;
+}
+body {
+    background-color: #BCAAA4;
+    color: #795548;
+}
