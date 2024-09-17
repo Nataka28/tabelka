@@ -16,3 +16,17 @@ body {
     background-color: #BCAAA4;
     color: #795548;
 }
+.druga
+{ border: 1px solid #795548;
+    width: 10%;
+    margin: auto;
+text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #795548;
+ }
+ a:hover {
+    text-decoration: none;
+    color: white;
+ }
